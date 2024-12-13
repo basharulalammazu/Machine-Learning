@@ -1,4 +1,4 @@
-<h1 align="center">🔍 Feature Extraction & CNN Features Extraction 🔍</h1>
+<h1 align="center">🔍 Feature Extraction From Image/ 🔍</h1>
 
 <p align="center">
   A machine learning-based feature extraction system using traditional and CNN-based techniques to extract features from images for classification tasks! 🧠✨
@@ -15,7 +15,7 @@
 
 ## 📖 Overview
 
-This **Feature Extraction & CNN Features Extraction** system uses both traditional machine learning techniques and Convolutional Neural Networks (CNNs) to extract useful features from image datasets. These features are used for classification tasks like image recognition and object detection.
+This **Feature Extraction From Image** system uses both traditional machine learning techniques and Convolutional Neural Networks (CNNs) to extract useful features from image datasets. These features are used for classification tasks like image recognition and object detection.
 
 ## 💡 Features
 - **Traditional Feature Extraction**: Utilizes techniques like Histogram of Oriented Gradients (HOG) and Local Binary Patterns (LBP) to extract features.
